@@ -1,7 +1,7 @@
 # AnatoVerse
 
 Inspiration
-Understanding complex 3D anatomical structures using traditional 2D scans presents significant challenges in medical education and diagnostics. We envisioned AnatoVerse to bridge this gap by transforming medical imaging into an interactive VR experience—bringing precision, intuition, and immersion to anatomical visualization.
+- Understanding complex 3D anatomical structures using traditional 2D scans presents significant challenges in medical education and diagnostics. We envisioned AnatoVerse to bridge this gap by transforming medical imaging into an interactive VR experience—bringing precision, intuition, and immersion to anatomical visualization.
 
 What It Does
 - AnatoVerse is a VR-integrated platform that converts brain MRI data into interactive 3D models, allowing real-time exploration and segmentation:
